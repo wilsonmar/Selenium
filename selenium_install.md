@@ -38,6 +38,16 @@ This should load a URL:
 driver.get("http://www.damien.co")
 ```
 
+#### To load Selenium IDE:
+Open a Firefox browser to URL http://docs.seleniumhq.org/download/
+Scroll to Selenium IDE and click the the latest downloader.
+Click Allow downloading. 
+Click Install Now.
+Restart Firefox.
+
+After installation, click on the Tools menu.
+On a Mac, the keys are control + option + S.
+
 From within a terminal, run a script:
 
 ```
