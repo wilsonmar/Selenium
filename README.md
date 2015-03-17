@@ -9,6 +9,7 @@ The Selenium Server is needed in order to run either Selenium RC style scripts o
 
 ### Selenium IDE
 Selenium IDE is a Firefox plug-in to record and playback Selenium scripts.
+Once installed, it can be invoked from the Tools menu.
 It can convert scripts to Ruby, Java, and other languages.
 
 ### Selenium Grid
