@@ -24,15 +24,13 @@ Processing dependencies for selenium
 Finished processing dependencies for selenium
 ```
 
-To install, open another terminal to invoke:
+To install, open another terminal to invoke a Firefox browser with Selenium IDE:
 
 ```
 python
 from selenium import webdriver
 driver = webdriver.Firefox()
 ```
-
-A Firefox window should open.
 
 This should load a URL:
 
