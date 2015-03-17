@@ -6,6 +6,12 @@ http://www.seleniumhq.org/download/
 Selenium 2.0
 
 The Selenium Server is needed in order to run either Selenium RC style scripts or Remote Selenium Webdriver ones. 
+### Selenium RC (RemoteControl)
+is now deprecated in favor of Web Driver.
+
+### Selenium Web Driver
+is a collection of language-specific APIs that drive a browser, particularly dynamic pages handling Ajax requests
+with HTML5 elements.
 
 ### Selenium IDE
 Selenium IDE is a Firefox plug-in to record and playback Selenium scripts.
