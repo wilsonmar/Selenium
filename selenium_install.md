@@ -1,5 +1,5 @@
 # selenium_install.html
-Selenium Installation
+Selenium Installation with
 
 To install Selenium on Mac using Python package manager:
 
@@ -45,7 +45,7 @@ Click Allow downloading.
 Click Install Now.
 Restart Firefox.
 
-After installation, click on the Tools menu.
+After Selenium IDE installation, click on the Tools menu.
 On a Mac, the keys are control + option + S.
 
 From within a terminal, run a script:
@@ -53,3 +53,23 @@ From within a terminal, run a script:
 ```
 mvn test -Dtest=MyFirstTest
 ```
+
+## To setup 
+
+PhantomJS is a headless WebKit browser, and GhostDriver is an implementation of the WebDriver Wire Protocol that's built into PhantomJS.
+
+https://github.com/detro/ghostdriver
+
+http://phantomjs.org/download.html
+
+## To setup use of Java on a Mac:
+
+1. Setup simple maven project using Eclipse/IntelliJ
+2. Setup Maven Selenium Dependency (and others are needed)
+3. Setup typical Page Object Pattern folder structure
+4. Start writing tests
+ 
+
+
+
+
