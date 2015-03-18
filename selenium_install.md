@@ -1,5 +1,5 @@
 # selenium_install.html
-Selenium Installation with
+Selenium Installation
 
 To install Selenium on Mac using Python package manager:
 
