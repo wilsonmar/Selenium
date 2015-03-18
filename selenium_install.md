@@ -1,6 +1,14 @@
 # selenium_install.html
 Selenium Installation
 
+## Eclipse
+1. At https://www.eclipse.org/downloads/?osType=win32&release=undefined
+2. Download and install the **32-bit** edition of Eclipse IDE for Java Developers:
+3. Wait until there is no minutes/seconds left to download file **eclipse-java-luna-SR2-win32.zip** 
+to your Downloads folder.
+4. Double-click
+
+## Selenium
 To install Selenium on Mac using Python package manager:
 
 ```
