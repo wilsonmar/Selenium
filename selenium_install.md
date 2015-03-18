@@ -24,6 +24,7 @@ Processing dependencies for selenium
 Finished processing dependencies for selenium
 ```
 
+### Sample Python script
 To install, open another terminal to invoke a Firefox browser with Selenium IDE:
 
 ```
@@ -54,7 +55,7 @@ From within a terminal, run a script:
 mvn test -Dtest=MyFirstTest
 ```
 
-## To setup 
+### To setup 
 
 PhantomJS is a headless WebKit browser, and GhostDriver is an implementation of the WebDriver Wire Protocol that's built into PhantomJS.
 
@@ -62,14 +63,9 @@ https://github.com/detro/ghostdriver
 
 http://phantomjs.org/download.html
 
-## To setup use of Java on a Mac:
+### To setup use of Java on a Mac:
 
 1. Setup simple maven project using Eclipse/IntelliJ
 2. Setup Maven Selenium Dependency (and others are needed)
 3. Setup typical Page Object Pattern folder structure
 4. Start writing tests
- 
-
-
-
-
