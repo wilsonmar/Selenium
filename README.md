@@ -1,9 +1,9 @@
-# selenium
+# Selenium
 Selenium testing
 
 http://www.seleniumhq.org/download/
 
-Selenium 2.0
+## Selenium 2.0
 
 The Selenium Server is needed in order to run either Selenium RC style scripts or Remote Selenium Webdriver ones. 
 ### Selenium RC (Remote Control)
@@ -24,6 +24,8 @@ It can convert scripts to Ruby, Java, and other languages.
 
 ### Selenium Grid
 is an automation framework for running in a multi-threaded environment.
+
+### http://appium.io/
 
 Other introductions:
 https://www.youtube.com/watch?v=8s_JuwA_9yw
