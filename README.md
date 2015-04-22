@@ -4,7 +4,8 @@ Selenium testing
 Selenium is an umbrella project for various tools and libraries that build and run 
 scripts which automatically run web browsers.
 
-Selenium is a chemical element, but it was chosen as the name of the software tool
+Selenium is a chemical element, found in trace amounts.
+But it was adopted as the name of the software tool
 because the element is taken as treatment for overdose of another chemical element, mercury.
 And mercury is the name of an earlier automation tool that Selenium seeks to replace.
 
