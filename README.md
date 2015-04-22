@@ -29,7 +29,7 @@ Its advantage is that it doesn't care if the object is visible or not.
 Selenium 2 merges RC into **Web Driver**,
 a collection of language-specific APIs that drive a browser, particularly dynamic pages handling Ajax requests
 with HTML5 elements. It began as part of HTMLUnit, but got subsumed by Selenium users
-around 2006 by Simon Stewart.
+around 2006 by Simon Stewart (https://twitter.com/shs96c, at Facebook).
 
 ### Selenium IDE
 
@@ -40,7 +40,8 @@ Setup:
 * Click the gray gear icon to select Install Add-on From File... 
 * In the Extensions tab on the left side, click **Restart now** on one of the Selenium IDE items.
 * Disable the IDE Formatters (C#, Java, Python, Ruby) you won't be using.
-* Click More. Note it was created by Shinya Kasatani (from Japan).
+* Click More link associated with Selenium IDE. Note it was created by Shinya Kasatani (from Japan).
+* Consider associated add-ons from http://docs.seleniumhq.org/projects/ide/plugins.jsp
 
 ### Selenium Grid
 
@@ -60,8 +61,14 @@ http://appium.io/
 Other introductions:
 https://www.youtube.com/watch?v=8s_JuwA_9yw
 
+## Live Events
 
-http://www.seleniumconf.org/2014/index.html
+https://twitter.com/SeleniumHangout
+does not seem to be active now.
+
+Meet people:
+* http://www.seleniumconf.org/2014/index.html
+* http://www.seleniumconf.org/2013/index.html
 
 | Left-Aligned  | Center Aligned  | Right Aligned |
 | :------------ |:---------------:| -----:|
