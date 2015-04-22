@@ -18,30 +18,48 @@ for writing interchangable automation code for major web browsers.
 
 http://www.seleniumhq.org/download/
 
-## Selenium 2.0
-
 The Selenium Server is needed in order to run either Selenium RC style scripts or Remote Selenium Webdriver ones. 
-### Selenium RC (Remote Control)
+## Selenium 1 = Selenium RC (Remote Control)
 is now deprecated in favor of Web Driver.
 It requires a java-based Selenium server to broker between the script and the browser.
 Its advantage is that it doesn't care if the object is visible or not.
 
+## Selenium 2 Web Driver
 
-### Selenium Web Driver
-is a collection of language-specific APIs that drive a browser, particularly dynamic pages handling Ajax requests
-with HTML5 elements. It began as part of HTMLUnit, but got subsumed by Selenium users.
-
+Selenium 2 merges RC into **Web Driver**,
+a collection of language-specific APIs that drive a browser, particularly dynamic pages handling Ajax requests
+with HTML5 elements. It began as part of HTMLUnit, but got subsumed by Selenium users
+around 2006 by Simon Stewart.
 
 ### Selenium IDE
-Selenium IDE is a Firefox plug-in to record and playback Selenium scripts.
+Selenium IDE is a Firefox extension to record and playback Selenium scripts.
 Once installed, it can be invoked from the Tools menu.
 It can convert scripts to Ruby, Java, and other languages.
+It was created by Shinya Kasatani from Japan.
 
 ### Selenium Grid
 is an automation framework for running in a multi-threaded environment.
 https://github.com/SeleniumHQ/selenium/wiki/Grid2?__s=nydeubumfdovfaqi4oyk&utm_campaign=52-grid&utm_medium=email&utm_source=broadcast
+It was initially created as "Hosted QA" by Patrick Lightbody.
 
-### http://appium.io/
+## Publications on Selenium
+
+https://www.youtube.com/watch?v=BL4-_tVx2rE
+uses cartoons to provide a summary with history and pictures of founders.
+
+### Appium = Selenium for Mobile
+
+http://appium.io/
 
 Other introductions:
 https://www.youtube.com/watch?v=8s_JuwA_9yw
+
+
+http://www.seleniumconf.org/2014/index.html
+
+| Left-Aligned  | Center Aligned  | Right Aligned |
+| :------------ |:---------------:| -----:|
+| col 3 is      | some wordy text | $1600 |
+| col 2 is      | centered        |   $12 |
+| zebra stripes | are neat        |    $1 |
+
