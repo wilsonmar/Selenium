@@ -32,12 +32,18 @@ with HTML5 elements. It began as part of HTMLUnit, but got subsumed by Selenium 
 around 2006 by Simon Stewart.
 
 ### Selenium IDE
+
 Selenium IDE is a Firefox extension to record and playback Selenium scripts.
-Once installed, it can be invoked from the Tools menu.
-It can convert scripts to Ruby, Java, and other languages.
-It was created by Shinya Kasatani from Japan.
+Setup:
+
+* After downloading file selenium-ide-2.9.0.xpi, from within Firefox | Tools | Add-ons page,
+* Click the gray gear icon to select Install Add-on From File... 
+* In the Extensions tab on the left side, click **Restart now** on one of the Selenium IDE items.
+* Disable the IDE Formatters (C#, Java, Python, Ruby) you won't be using.
+* Click More. Note it was created by Shinya Kasatani (from Japan).
 
 ### Selenium Grid
+
 is an automation framework for running in a multi-threaded environment.
 https://github.com/SeleniumHQ/selenium/wiki/Grid2?__s=nydeubumfdovfaqi4oyk&utm_campaign=52-grid&utm_medium=email&utm_source=broadcast
 It was initially created as "Hosted QA" by Patrick Lightbody.
