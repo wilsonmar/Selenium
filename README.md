@@ -1,6 +1,20 @@
 # Selenium
 Selenium testing
 
+Selenium is an umbrella project for various tools and libraries that build and run 
+scripts which automatically run web browsers.
+
+Selenium is a chemical element, but it was chosen as the name of the software tool
+because the element is taken as treatment for overdose of another chemical element, mercury.
+And mercury is the name of an earlier automation tool that Selenium seeks to replace.
+
+User Guide: https://seleniumhq.github.io/docs/
+formats markup in https://github.com/SeleniumHQ/selenium
+
+Amongst other things it provides the support infrastructure for the W3C WebDriver specification
+(https://dvcs.w3.org/hg/webdriver/raw-file/tip/webdriver-spec.html) 
+for writing interchangable automation code for major web browsers.
+
 http://www.seleniumhq.org/download/
 
 ## Selenium 2.0
@@ -24,6 +38,7 @@ It can convert scripts to Ruby, Java, and other languages.
 
 ### Selenium Grid
 is an automation framework for running in a multi-threaded environment.
+https://github.com/SeleniumHQ/selenium/wiki/Grid2?__s=nydeubumfdovfaqi4oyk&utm_campaign=52-grid&utm_medium=email&utm_source=broadcast
 
 ### http://appium.io/
 
