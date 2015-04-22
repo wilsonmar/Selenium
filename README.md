@@ -24,12 +24,19 @@ is now deprecated in favor of Web Driver.
 It requires a java-based Selenium server to broker between the script and the browser.
 Its advantage is that it doesn't care if the object is visible or not.
 
-## Selenium 2 Web Driver
+## Selenium 2 Web Driver (Server)
 
 Selenium 2 merges RC into **Web Driver**,
 a collection of language-specific APIs that drive a browser, particularly dynamic pages handling Ajax requests
 with HTML5 elements. It began as part of HTMLUnit, but got subsumed by Selenium users
 around 2006 by Simon Stewart (https://twitter.com/shs96c, at Facebook).
+
+Instead of downloading selenium-server-standalone-2.45.0.jar, see 
+https://www.npmjs.com/package/selenium-server-standalone-jar to use
+
+```
+npm install --save-dev selenium-server-standalone-jar
+```
 
 ### Selenium IDE
 
