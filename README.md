@@ -1,5 +1,4 @@
-# Selenium
-Selenium testing
+# Selenium testing
 
 https://www.youtube.com/watch?v=BL4-_tVx2rE
 uses cartoons to present this summary with history and pictures of founders.
@@ -44,14 +43,6 @@ npm install --save-dev selenium-server-standalone-jar
 ### Selenium IDE
 
 Selenium IDE is a Firefox extension to record and playback Selenium scripts.
-Setup:
-
-* After downloading file selenium-ide-2.9.0.xpi, from within Firefox | Tools | Add-ons page,
-* Click the gray gear icon to select Install Add-on From File... 
-* In the Extensions tab on the left side, click **Restart now** on one of the Selenium IDE items.
-* Disable the IDE Formatters (C#, Java, Python, Ruby) you won't be using.
-* Click More link associated with Selenium IDE. Note it was created by Shinya Kasatani (from Japan).
-* Consider associated add-ons from http://docs.seleniumhq.org/projects/ide/plugins.jsp
 
 ### Selenium Grid
 
