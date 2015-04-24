@@ -4,9 +4,9 @@ Selenium testing
 Selenium is an umbrella project for various tools and libraries that build and run 
 scripts which automatically run web browsers.
 
-Selenium is a chemical element, found in trace amounts.
+Selenium is a chemical element "Se", found in trace amounts.
 But it was adopted as the name of the software tool
-because the element is taken as treatment for overdose of another chemical element, mercury.
+because the element is taken as treatment for overdose of another chemical element, mercury ("Hg").
 And mercury is the name of an earlier automation tool that Selenium seeks to replace.
 
 User Guide: https://seleniumhq.github.io/docs/
@@ -26,7 +26,7 @@ Its advantage is that it doesn't care if the object is visible or not.
 
 ## Selenium 2 Web Driver (Server)
 
-Selenium 2 merges RC into **Web Driver**,
+In 2008 Selenium 2 resulted from merging RC into **Web Driver**,
 a collection of language-specific APIs that drive a browser, particularly dynamic pages handling Ajax requests
 with HTML5 elements. It began as part of HTMLUnit, but got subsumed by Selenium users
 around 2006 by Simon Stewart (https://twitter.com/shs96c, at Facebook).
@@ -77,9 +77,4 @@ Meet people:
 * http://www.seleniumconf.org/2014/index.html
 * http://www.seleniumconf.org/2013/index.html
 
-| Left-Aligned  | Center Aligned  | Right Aligned |
-| :------------ |:---------------:| -----:|
-| col 3 is      | some wordy text | $1600 |
-| col 2 is      | centered        |   $12 |
-| zebra stripes | are neat        |    $1 |
 
