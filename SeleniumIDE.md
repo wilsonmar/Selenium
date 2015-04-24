@@ -1,5 +1,5 @@
 
-As of Selenium IDE v1.9.1, test cases can be exported only to the following formats:
+Export test cases to these programming languages (formats):
 
 * .cs (C# source code)
 * .java (Java source code)
