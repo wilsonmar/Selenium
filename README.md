@@ -1,6 +1,9 @@
 # Selenium
 Selenium testing
 
+https://www.youtube.com/watch?v=BL4-_tVx2rE
+uses cartoons to present this summary with history and pictures of founders.
+
 Selenium is an umbrella project for various tools and libraries that build and run 
 scripts which automatically run web browsers.
 
@@ -56,10 +59,11 @@ is an automation framework for running in a multi-threaded environment.
 https://github.com/SeleniumHQ/selenium/wiki/Grid2?__s=nydeubumfdovfaqi4oyk&utm_campaign=52-grid&utm_medium=email&utm_source=broadcast
 It was initially created as "Hosted QA" by Patrick Lightbody.
 
-## Publications on Selenium
+## Video Tutorials on Selenium
 
-https://www.youtube.com/watch?v=BL4-_tVx2rE
-uses cartoons to provide a summary with history and pictures of founders.
+https://www.youtube.com/watch?v=LpAV9vYIYrg&list=PLByAM0wHjwJlpBvSEXN1KSwvuOAHbJm2R
+Selenium Advanced from OpenMentor India May 2014
+is a 21-part series of 30 minutes each (because it goes rather slowly)
 
 ### Appium = Selenium for Mobile
 
