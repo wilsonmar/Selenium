@@ -1,12 +1,14 @@
 # selenium_install.html
 Selenium Installation
 
-## Eclipse
+## <a name="EclipseIDE"></a> Eclipse IDE
 1. At https://www.eclipse.org/downloads/?osType=win32&release=undefined
 2. Download and install the **32-bit** edition of Eclipse IDE for Java Developers:
 3. Wait until there is no minutes/seconds left to download file **eclipse-java-luna-SR2-win32.zip** 
 to your Downloads folder.
 4. Double-click
+
+## <a name="IntelliJIDE"></a> IntelliJ IDE
 
 ## Selenium
 To install Selenium on Mac using Python package manager:
@@ -32,7 +34,7 @@ Processing dependencies for selenium
 Finished processing dependencies for selenium
 ```
 
-### Sample Python script
+### <a name="SamplyPython"></a> Sample Python script
 To install, open another terminal to invoke a Firefox browser with Selenium IDE:
 
 ```
@@ -47,7 +49,7 @@ This should load a URL:
 driver.get("http://www.damien.co")
 ```
 
-#### To load Selenium IDE:
+#### <a name="SeleniumIDE"></a> To load Selenium IDE:
 Open a Firefox browser to URL http://docs.seleniumhq.org/download/
 Scroll to Selenium IDE and click the the latest downloader.
 Click Allow downloading. 
@@ -71,9 +73,10 @@ https://github.com/detro/ghostdriver
 
 http://phantomjs.org/download.html
 
-### To setup use of Java on a Mac:
+### <a name="JavaMac"</a> To setup use of Java on a Mac:
 
 1. Setup simple maven project using Eclipse/IntelliJ
 2. Setup Maven Selenium Dependency (and others are needed)
 3. Setup typical Page Object Pattern folder structure
 4. Start writing tests
+
