@@ -1,4 +1,14 @@
 
+## <a name="JavaInitRepo"></a> Java Initial Repo
+
+Dave has an initial repo at
+https://github.com/selenium-guidebook/code-examples-java-init
+contains the following minimum set of folders and files:
+
+  * File **pom.xml** 
+  * Folder **src/test/java** contains a **.gitkeep** file to ensure that the folder path stays in github repos.
+
+### <a name="CaptureScreen</a> Capture a Screen</a>
 
 An example of coding Selenium to capture a screen:
 
