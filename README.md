@@ -4,7 +4,8 @@ https://www.youtube.com/watch?v=BL4-_tVx2rE
 uses cartoons to present this summary with history and pictures of founders.
 
 Selenium is an umbrella project for various tools and libraries that build and run 
-scripts which automatically run web browsers.
+scripts which automatically run web browsers. Software Freedom Conservancy, the non-profit corporate home of the Selenium Project. Contributors to Selenium as asked to 
+[electronically sign their CLA (Contributor License Agreement)](https://docs.google.com/forms/d/11Z8LoYpTGUIwCegifVH1YtL9smxVDNk-fOykUZTAWhE/viewform?formkey=dFFjXzBzM1VwekFlOWFWMjFFRjJMRFE6MQ&hl=en_US#gid=0)
 
 Selenium is a chemical element "Se", found in trace amounts.
 But it was adopted as the name of the software tool
