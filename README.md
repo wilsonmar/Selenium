@@ -71,10 +71,10 @@ https://www.youtube.com/watch?v=8s_JuwA_9yw
 ## Live Events
 
 https://twitter.com/SeleniumHangout
-does not seem to be active now.
+does not seem to be active recently.
 
 Meet people in person because you don't know what you don't know:
-* http://www.seleniumconf.org/2014
+* http://www.seleniumconf.org
 * http://www.seleniumconf.org/2013/index.html
 
 
