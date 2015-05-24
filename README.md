@@ -3,15 +3,25 @@
 https://www.youtube.com/watch?v=BL4-_tVx2rE
 uses cartoons to present this summary with history and pictures of founders.
 
-Selenium is an umbrella project for various tools and libraries that build and run 
+"Selenium" is an umbrella project for various tools and libraries that build and run 
 scripts which automatically run web browsers. 
-Software Freedom Conservancy is the non-profit corporate home of the Selenium Project. 
+
+Software Freedom Conservancy is the non-profit corporate home of the Selenium Project 
+made possible by volunteer contributors who make the source code freely
+available under the [Apache 2.0 license](https://code.google.com/p/selenium/source/browse/COPYING).
+
+The authorative master repository of selenium is at
+https://code.google.com/p/selenium/.  It also mirrored on GitHub
+at https://github.com/SeleniumHQ/selenium.
+
 Contributors to Selenium as asked to [electronically sign their CLA (Contributor License Agreement)](https://docs.google.com/forms/d/11Z8LoYpTGUIwCegifVH1YtL9smxVDNk-fOykUZTAWhE/viewform?formkey=dFFjXzBzM1VwekFlOWFWMjFFRjJMRFE6MQ&hl=en_US#gid=0)
 
 Selenium is a chemical element "Se", found in trace amounts.
 But it was adopted as the name of the software tool
 because the element is taken as treatment for overdose of another chemical element, mercury ("Hg").
-And mercury is the name of an earlier automation tool that Selenium seeks to replace.
+
+Mercury is the name of an earlier automation tool (QTP/UFT) that Selenium seeks to replace.
+Unlike Mercury tools currently, one can write interchangable code for all major web browsers.
 
 User Guide: https://seleniumhq.github.io/docs/
 formats markup in https://github.com/SeleniumHQ/selenium
@@ -19,6 +29,8 @@ formats markup in https://github.com/SeleniumHQ/selenium
 Amongst other things it provides the support infrastructure for the W3C WebDriver specification
 (https://dvcs.w3.org/hg/webdriver/raw-file/tip/webdriver-spec.html) 
 for writing interchangable automation code for major web browsers.
+Tthe [Building Web
+Driver wiki](http://code.google.com/p/selenium/wiki/BuildingWebDriver) are where Selenium developers hang out.
 
 http://www.seleniumhq.org/download/
 
