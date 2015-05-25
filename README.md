@@ -11,8 +11,9 @@ made possible by volunteer contributors who make the source code freely
 available under the [Apache 2.0 license](https://code.google.com/p/selenium/source/browse/COPYING).
 
 The authorative master repository of selenium is at
-https://code.google.com/p/selenium/.  It also mirrored on GitHub
-at https://github.com/SeleniumHQ/selenium.
+https://code.google.com/p/selenium/.  It is mirrored on GitHub
+at https://github.com/SeleniumHQ/selenium,
+with a User Guide at https://seleniumhq.github.io/docs/
 
 Contributors to Selenium as asked to [electronically sign their CLA (Contributor License Agreement)](https://docs.google.com/forms/d/11Z8LoYpTGUIwCegifVH1YtL9smxVDNk-fOykUZTAWhE/viewform?formkey=dFFjXzBzM1VwekFlOWFWMjFFRjJMRFE6MQ&hl=en_US#gid=0)
 
@@ -22,9 +23,6 @@ because the element is taken as treatment for overdose of another chemical eleme
 
 Mercury is the name of an earlier automation tool (QTP/UFT) that Selenium seeks to replace.
 Unlike Mercury tools currently, one can write interchangable code for all major web browsers.
-
-User Guide: https://seleniumhq.github.io/docs/
-formats markup in https://github.com/SeleniumHQ/selenium
 
 Amongst other things it provides the support infrastructure for the W3C WebDriver specification
 (https://dvcs.w3.org/hg/webdriver/raw-file/tip/webdriver-spec.html) 
