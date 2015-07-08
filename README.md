@@ -84,7 +84,9 @@ https://twitter.com/SeleniumHangout
 does not seem to be active recently.
 
 Meet people in person because you don't know what you don't know:
+* http://year-2015.seleniumconf.org Sep 8-10th 2015 at the Hilton Portland & Executive Tower, 921 SW 6th Ave, Portland, OR 97204
+(503) 226-1611 submissions are open until July 17th.
 * http://www.seleniumconf.org
 * http://www.seleniumconf.org/2013/index.html
 
-
+http://selenium.googlecode.com/git/docs/api/dotnet/index.html
