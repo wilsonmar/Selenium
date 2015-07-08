@@ -54,7 +54,7 @@ npm install --save-dev selenium-server-standalone-jar
 
 ### Selenium IDE
 
-Selenium IDE is a Firefox extension to record and playback Selenium scripts.
+Selenium IDE is a Firefox internt browser extension to record and playback Selenium scripts.
 
 ### Selenium Grid
 
