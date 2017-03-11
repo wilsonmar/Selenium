@@ -15,7 +15,7 @@ https://code.google.com/p/selenium/.  It is mirrored on GitHub
 at https://github.com/SeleniumHQ/selenium,
 with a User Guide at https://seleniumhq.github.io/docs/
 
-Contributors to Selenium as asked to [electronically sign their CLA (Contributor License Agreement)](https://docs.google.com/forms/d/11Z8LoYpTGUIwCegifVH1YtL9smxVDNk-fOykUZTAWhE/viewform?formkey=dFFjXzBzM1VwekFlOWFWMjFFRjJMRFE6MQ&hl=en_US#gid=0)
+Contributors to Selenium are asked to [electronically sign their CLA (Contributor License Agreement)](https://docs.google.com/forms/d/11Z8LoYpTGUIwCegifVH1YtL9smxVDNk-fOykUZTAWhE/viewform?formkey=dFFjXzBzM1VwekFlOWFWMjFFRjJMRFE6MQ&hl=en_US#gid=0)
 
 Selenium is a chemical element "Se", found in trace amounts.
 But it was adopted as the name of the software tool
